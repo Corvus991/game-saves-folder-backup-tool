@@ -7,7 +7,8 @@ Finally click on the Backup button!
 If you don't know where is one of your game save files stored, just write the game's name on the field. Just make sure to write the name properly with a capital to each word.
 
 Example:
-Marvel's Spider-Man Remastered or Batman: Arkham Knight
+Marvel's Spider-Man Remastered
+Batman: Arkham Knight.
 
 
 This tool works for Windows, Linux and MacOs!
