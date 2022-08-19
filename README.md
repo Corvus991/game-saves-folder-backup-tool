@@ -10,4 +10,4 @@ Example:
 Marvel's Spider-Man Remastered or Batman: Arkham Knight.
 
 
-This tool works for Windows, Linux and MacOs!
+This tool is available for Windows, Linux and MacOs!
